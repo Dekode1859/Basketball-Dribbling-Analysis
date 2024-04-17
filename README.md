@@ -1,4 +1,5 @@
-# Basketball Dribbling Analysis Documentation
+# Basketball Dribbling Analysis OPenCV Application
+
 *Author: Pratik Dwivedi*
 
 ## 1. Introduction
