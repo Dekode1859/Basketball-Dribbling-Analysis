@@ -7,13 +7,13 @@ Welcome to the Basketball Dribbling Analysis repository! This project utilizes c
 1. **Clone the Repository:** Open your terminal and run the following command to clone this repository to your local machine:
 
 ```
-git clone https://github.com/Dekode1859/Basketball_YOLO/
+git clone https://github.com/Dekode1859/Basketball-Dribbling-Analysis/
 ```
 
 2. **Navigate to the Repository Directory:** Change your directory to the cloned repository:
 
 ```
-cd Basketball_YOLO
+cd Basketball-Dribbling-Analysis
 ```
 
 3. **Install Requirements:** Make sure you have Python installed on your machine. Then, install the required packages by running:
