@@ -1,6 +1,38 @@
-# Basketball Dribbling Analysis OPenCV Application
+# Basketball Dribbling Analysis
 
-*Author: Pratik Dwivedi*
+Welcome to the Basketball Dribbling Analysis repository! This project utilizes computer vision techniques to extract meaningful insights from a video of a basketball dribble.
+
+## How to Clone and Run the Streamlit App
+
+1. **Clone the Repository:** Open your terminal and run the following command to clone this repository to your local machine:
+
+
+
+2. **Navigate to the Repository Directory:** Change your directory to the cloned repository:
+
+
+
+3. **Install Requirements:** Make sure you have Python installed on your machine. Then, install the required packages by running:
+
+
+
+4. **Run the Streamlit App:** Once the requirements are installed, you can run the Streamlit app by executing the following command:
+
+
+
+
+5. **Access the App:** Open your web browser and go to `http://localhost:8501` to access the Basketball Dribbling Analysis app.
+
+## Repository Structure
+
+- `analysis.py`: Contains functions to analyze the video file or webcam feed, detect basketball positions, and measure the defined metrics.
+- `app.py`: The main file for the Streamlit application.
+- `kalmanfilter.py`: Implementation of the Kalman filter algorithm for predicting the trajectory of the basketball.
+- `YoloV8_Train_detector.ipynb`: Jupyter notebook for training the YOLOv8 object detection model.
+- `requirements.txt`: Lists all the required Python packages for running the Streamlit app.
+- `Basketball Dribbling Analysis Documentation.docx`: Documentation file providing an overview of the project, analysis methods, implementation details, challenges faced, and custom analysis tasks.
+- `WHATSAAP ASSIGNMENT.mp4`: Video file demonstrating the functionality update of the project.
+
 
 ## 1. Introduction
 The program utilizes computer vision techniques to extract meaningful insights from a video of a basketball dribble.
