@@ -6,19 +6,27 @@ Welcome to the Basketball Dribbling Analysis repository! This project utilizes c
 
 1. **Clone the Repository:** Open your terminal and run the following command to clone this repository to your local machine:
 
-`git clone https://github.com/Dekode1859/Basketball_YOLO/`
+```
+git clone https://github.com/Dekode1859/Basketball_YOLO/
+```
 
 2. **Navigate to the Repository Directory:** Change your directory to the cloned repository:
 
-`cd Basketball_YOLO`
+```
+cd Basketball_YOLO
+```
 
 3. **Install Requirements:** Make sure you have Python installed on your machine. Then, install the required packages by running:
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 4. **Run the Streamlit App:** Once the requirements are installed, you can run the Streamlit app by executing the following command:
 
-`streamlit run app.py`
+```
+streamlit run app.py
+```
 
 5. **Access the App:** Open your web browser and go to `http://localhost:8501` to access the Basketball Dribbling Analysis app.
 
