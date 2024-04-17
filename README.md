@@ -38,7 +38,7 @@ streamlit run app.py
 - `YoloV8_Train_detector.ipynb`: Jupyter notebook for training the YOLOv8 object detection model.
 - `requirements.txt`: Lists all the required Python packages for running the Streamlit app.
 - `Basketball Dribbling Analysis Documentation.docx`: Documentation file providing an overview of the project, analysis methods, implementation details, challenges faced, and custom analysis tasks.
-- `WHATSAAP ASSIGNMENT.mp4`: Video file demonstrating the functionality update of the project.
+- `WHATSAAP ASSIGNMENT.mp4`: Example video file to check the working of the program.
 
 
 ## 1. Introduction
